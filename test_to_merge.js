@@ -1,0 +1,1 @@
+const testToMerge = 'Halo ini tes!!'
